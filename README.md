@@ -70,3 +70,17 @@ Want to learn some [Node.js](http://nodejs.org)?
 
   + [An Absolute Beginners Guide to Node.js](http://blog.modulus.io/absolute-beginners-guide-to-nodejs)
   + [Node.js for Front-End developers](http://shop.oreilly.com/product/0636920023258.do)
+ 
+
+
+##Daily Reads
+
+  + [Hacker News](https://news.ycombinator.com/)
+  + [Monocle.io](http://monocle.io)
+  + [DailyJS](http://dailyjs.com/)
+  + [Net Magazine](http://www.netmagazine.com/)
+  + Google+ Communities
+  	+ [CSS](https://plus.google.com/communities/106425668610348127113) 
+  	+ [Node.js](https://plus.google.com/communities/115365528781941125390)
+  	+ [JS](https://plus.google.com/communities/100875929141897651837)
+  + [The Verge](http://theverge.com) 
