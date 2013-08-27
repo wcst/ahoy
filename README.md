@@ -33,11 +33,12 @@ We use Compass and SASS. We used to use LESS, we aren't opposed to it, we just f
   + [grunt-contrib-compass](https://github.com/gruntjs/grunt-contrib-compass) – This is how we compile!
   + [bourbon.io](http://bourbon.io) – A mixin library for SASS
 
+Also, take a look at the [WCST Style Guide for CSS](https://github.com/wcst/style#css).
 
 ##JS
 
 ###Modules
-We keep it modular. Generally, our front-end code uses AMD (http://requirejs.org/docs/whyamd.html). We use [require.js](http://requirejs.org) and less frequently, [browserify](http://browserify.org/) for CommonJS support.
+We keep it modular. Generally, our front-end code uses AMD (http://requirejs.org/docs/whyamd.html). We use [require.js](http://requirejs.org) and less frequently, [browserify](http://browserify.org/) for CommonJS support. You can see our general guidelines on the [WCST JS Style Guide](https://github.com/wcst/style#js).
 
   + [Writing Modular JavaScript With AMD, CommonJS & ES Harmony](http://addyosmani.com/writing-modular-js/)
   + [Shared Rendering In Node And The Browser](http://substack.net/shared_rendering_in_node_and_the_browser)
