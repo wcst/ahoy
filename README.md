@@ -9,7 +9,7 @@ We know sometimes it can be tough to integrate into a new team or workflow. So w
 ##Philosophy & Stack
 Our approach to front-end development is simple. Keep it [DRY](http://en.wikipedia.org/wiki/Don't_repeat_yourself), keep it modular. While we roll with an opinionated stack, we aren't tied to anything permanently. Our code, our process, our stack, it is ever-evolving.
 
-We have a [Yeoman](http://yeoman.io) generator – [Stamp](https://github.com/kyledetella/generator-stamp) – that we built to scaffold out new projects. Take a look at that to get familiar with the stack!
+We have a [Yeoman](http://yeoman.io) generator – [Stamp](https://github.com/kyledetella/generator-stamp) – that we built to scaffold out new projects. Take a look at that to get a bit more familiar with our style.
 
 ##Git
 We use git as our version control system of choice. We run our client projects from [Beanstalk](http://beanstalkapp.com/) and our personal/internal libraries from [Github](http://github.com).
