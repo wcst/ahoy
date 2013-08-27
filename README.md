@@ -73,14 +73,23 @@ Want to learn some [Node.js](http://nodejs.org)?
  
 
 
-##Daily Reads
-
-  + [Hacker News](https://news.ycombinator.com/)
-  + [Monocle.io](http://monocle.io)
-  + [DailyJS](http://dailyjs.com/)
-  + [Net Magazine](http://www.netmagazine.com/)
+##Links & Resources
+ 
+  + Resources
+  	+ [HTML5Rocks](http://www.html5rocks.com/en/)
+  	+ [caniuse.com](http://caniuse.com/)
+  	+ [MDN](https://developer.mozilla.org/en-US/)
+  	+ [WebPlatform.org](http://www.webplatform.org/)
+  	+ [CSS-Tricks *(invaluable)*](http://css-tricks.com)
+  + Daily Reads
+  	+ [Hacker News](https://news.ycombinator.com/)
+  	+ [Monocle.io](http://monocle.io)
+  	+ [SVBTLE](http://svbtle.com)
+  	+ [DailyJS](http://dailyjs.com/)
+  	+ [Net Magazine](http://www.netmagazine.com/)
+	+ [The Verge](http://theverge.com)   
   + Google+ Communities
   	+ [CSS](https://plus.google.com/communities/106425668610348127113) 
   	+ [Node.js](https://plus.google.com/communities/115365528781941125390)
   	+ [JS](https://plus.google.com/communities/100875929141897651837)
-  + [The Verge](http://theverge.com) 
+ 
