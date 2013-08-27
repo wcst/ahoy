@@ -1,11 +1,15 @@
 Ahoy
 ====
 
-First things first – _welcome!_ We know sometimes it can be tough to integrate into a new team or workflow. So we are going to try to help out.
+First things first – _welcome!_ 
+
+We know sometimes it can be tough to integrate into a new team or workflow. So we are going to try to help out. We don't have all the answers, we don't claim to know everything. We do however, have some experience under our belt and we have found some things that work and cast aside others that don't. The following is a collection of resources and concepts we use, just so we are all on the same page.
 
 
-##Philosophy
-Our approach to front-end development is simple. Keep it [DRY](http://en.wikipedia.org/wiki/Don't_repeat_yourself), keep it modular(requirejs.org). While we roll with an opinionated stack, we aren't tied
+##Philosophy & Stack
+Our approach to front-end development is simple. Keep it [DRY](http://en.wikipedia.org/wiki/Don't_repeat_yourself), keep it modular. While we roll with an opinionated stack, we aren't tied to anything permanently. Our code, our process, our stack, it is ever-evolving.
+
+We have a [Yeoman](http://yeoman.io) generator – [Stamp](https://github.com/kyledetella/generator-stamp) – that we built to scaffold out new projects. Take a look at that to get familiar with the stack!
 
 ##Git
 We use git as our version control system of choice. We run our client projects from [Beanstalk](http://beanstalkapp.com/) and our personal/internal libraries from [Github](http://github.com).
