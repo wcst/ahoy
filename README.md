@@ -81,6 +81,7 @@ Want to learn some [Node.js](http://nodejs.org)?
   	+ [MDN](https://developer.mozilla.org/en-US/)
   	+ [WebPlatform.org](http://www.webplatform.org/)
   	+ [CSS-Tricks *(invaluable)*](http://css-tricks.com)
+  	+ [designpepper.com](http://designpepper.com/)
   + Daily Reads
   	+ [Hacker News](https://news.ycombinator.com/)
   	+ [Monocle.io](http://monocle.io)
