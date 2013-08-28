@@ -18,6 +18,17 @@ We use git as our version control system of choice. We run our client projects f
   + Github Guides (more than just github) – http://www.youtube.com/GitHubGuides
   + git-scm – http://git-scm.com/
 
+``` shell
+# Add your worked on files
+git add .
+
+# Send a commit message
+git commit -m "your message"
+
+# Push to repo
+git push
+```
+
 ##Grunt
 [Grunt.js](http://gruntjs.com) has proven to be invaluable to our workflow.
 
