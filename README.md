@@ -99,6 +99,7 @@ Want to learn some [Node.js](http://nodejs.org)?
   	+ [WebPlatform.org](http://www.webplatform.org/)
   	+ [CSS-Tricks *(invaluable)*](http://css-tricks.com)
   	+ [designpepper.com](http://designpepper.com/)
+  	+ [breakpoints.io](http://breakpoints.io/)
   + Daily Reads
   	+ [Hacker News](https://news.ycombinator.com/)
   	+ [Monocle.io](http://monocle.io)
