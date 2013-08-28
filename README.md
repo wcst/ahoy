@@ -19,8 +19,14 @@ We use git as our version control system of choice. We run our client projects f
   + git-scm – http://git-scm.com/
 
 ``` shell
+# Make sure to quit current process
+cmd+c
+
 # Add your worked on files
 git add .
+
+# If you have deleted any files – 
+git add -u
 
 # Send a commit message
 git commit -m "your message"
